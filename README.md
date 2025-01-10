@@ -1,4 +1,4 @@
-![Cuplikan layar 2025-01-10 223833](https://github.com/user-attachments/assets/97db1d9f-6234-4ff9-8e2b-19c404920d4d)## 👤 Profil Mahasiswa
+👤 Profil Mahasiswa
 
 | Atribut         | Keterangan          |
 | --------------- | ------------------- |
